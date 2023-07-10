@@ -1,0 +1,120 @@
+
+header{
+  overflow: hidden;
+  color: #fff;
+  border-radius: 15px;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.header {
+  position: sticky;
+}
+.logo{
+    top: 0px;
+    left: 0px;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+  
+  .main {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .menu {
+    flex: 1;
+    padding: 20px;
+    background-color: burlywood;
+    overflow-y: scroll;
+  }
+  .menu img{
+    border-radius: 5px;
+  }
+
+  .orders {
+    flex-basis: 300px;
+    padding: 20px;
+    background-color: burlywood;
+    position: sticky;
+    top: 0; 
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item {
+    margin-bottom: 20px;
+    border: 2px;
+  }
+  
+  .menu-item img {
+    width: 250px;
+    height: 150px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .menu-item p {
+    margin: 5px 0;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #orderList {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  #orderList li {
+    margin-bottom: 5px;
+  }
+  #form-input{
+    color:white;
+  }
+  main{
+    margin-top: 15rem;
+  }
+  
+  #form{
+    border: 3px solid red;
+    width: 250px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: auto;
+
+  }
+  

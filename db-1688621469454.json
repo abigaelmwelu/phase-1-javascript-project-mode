@@ -1,0 +1,47 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "description": "delicious burger with a juicy patty,lettuce and cheese.",
+      "price": 500,
+      "img": ""
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "description": "delicious pizza with chicken,becon(optional) BBQ and cheese",
+      "price": 1500,
+      "img": ""
+    },
+    {
+      "id": 3,
+      "name": "Fries",
+      "description": "delicious fries made with our special flour cotting",
+      "price": 120,
+      "img": ""
+    },
+    {
+      "id": 4,
+      "name": "Sandwich",
+      "description": "delicious sandwich made with ham,lettuce,tomatoes,and cheese",
+      "price": 100,
+      "img": ""
+    },
+    {
+      "id": 5,
+      "name": "Hotdog",
+      "description": "delicious hotdog added with well cooked onions and our special source",
+      "price": 90,
+      "img": ""
+    },
+    {
+      "id": 6,
+      "name": "Chicken",
+      "description": "delicious chicken made according to your choice either fried",
+      "price": 1000,
+      "img": ""
+    }
+  ],
+  "orders": []
+}
